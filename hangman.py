@@ -11,7 +11,7 @@ def draw_gallows(hang_count):
     if hang_count >= 4:
         stomach = "X"
     if hang_count >= 5:
-        legs = r"/ \"
+        legs = "/ \\"
     if hang_count >= 6:
         feet = "() ()"
 
